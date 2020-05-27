@@ -72,7 +72,7 @@ function getCss() {
 
     h2 {
         font-weight: 300;
-        font-size: 2.8vw;
+        font-size: 3.2vw;
         margin: 0 0 100px 0;
         color: rgb(132, 239, 253);
         text-shadow: rgb(0, 0, 0) 0px 0px 6px;
@@ -103,7 +103,7 @@ export function getHtml(parsedReq: ParsedRequest) {
             <h1>sessions:</h1>
             <h2>Book a session with <span><b>${sanitizeHtml(
               name
-            )}</b> today!</span></h2>
+            )}</b></span> today!</h2>
         </div>
     </body>
 </html>`;
