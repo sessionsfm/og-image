@@ -33,7 +33,7 @@ function getCss() {
 
         background-color: black;
         background-size: cover;
-        background-image: url("https://test.sessions.fm/static/media/beginner-classical.ec922820.jpg");
+        background-image: url("https://test.sessions.fm/static/media/guitar.6d9a205c.jpg");
 
         color: white;
     }
